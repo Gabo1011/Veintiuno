@@ -10,11 +10,12 @@
   "start": "serve dist"
   },
   "devDependencies": {
-    "vite": "^6.2.0"
+    
   },
   "dependencies": {
     "serve": "^14.2.4",
-    "underscore": "^1.13.7"
+    "underscore": "^1.13.7",
+    "vite": "^6.2.0"
   }
   
 }
